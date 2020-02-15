@@ -1,3 +1,5 @@
+
+
 def game_hash
   hash = {
     :home => {
@@ -114,3 +116,5 @@ def game_hash
     }
   }
 end
+
+def num
