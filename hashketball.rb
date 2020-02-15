@@ -45,7 +45,15 @@ def game_hash
               :blocks => 1,
               :slam_dunks => 0
                },
-               {:player_name => "Brendan Heywood"
+               {:player_name => "Brendan Heywood",
+              :number => 33,
+              :shoe => 15,
+              :points => 6,
+              :rebounds => 12,
+              :assists => 12,
+              :steals => 22,
+              :blocks => 5,
+              :slam_dunks => 12
               ]
  }
  
