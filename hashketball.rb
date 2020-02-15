@@ -57,7 +57,7 @@ def game_hash
                }
               ]
    },
-   :home =>{:team_name => "Charlotte Hornets",
+   :home =>{:team_name => "Brooklyn Nets",
             :colors => ["Turquoise", "Purple"],
             :players =>[
               {:player_name => "Jeff Adrien",
