@@ -1,4 +1,4 @@
-require ""
+require 'pry'
 
 def game_hash
   hash = {
@@ -117,4 +117,11 @@ def game_hash
   }
 end
 
-def num
+def num_points_score(players_name)
+  
+  
+  
+  
+  
+  
+  
